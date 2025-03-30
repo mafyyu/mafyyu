@@ -29,7 +29,7 @@ I’m a Frontend Developer from Japan!!
 </h2>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,css,html,py,supabase,git,github" />
+    <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,css,html,py,swift,unity,supabase,git,github" />
   </a>
 </p>
 
